@@ -1,8 +1,8 @@
 # Hospital-Management-system
 This project is done by using Django python framework.
 
-## Connection to MysQL database 
-```DATABASES = {
+## Connection to MysQL database
+DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'hospitalinfy',
@@ -11,9 +11,9 @@ This project is done by using Django python framework.
         'HOST':'localhost',
         'PORT':'3308',
     }
-}```
+}
 
-** Requirements: **
+**Requirements: **
 
   -crispyforms installation:
       ```pip install django-crispy-forms```
