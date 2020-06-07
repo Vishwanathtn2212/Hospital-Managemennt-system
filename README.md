@@ -13,23 +13,21 @@ DATABASES = {
     }
 }
 
-**Requirements: **
+**Requirements:**
 
-  -crispyforms installation:
+  - crispyforms installation:
       ```pip install django-crispy-forms```
    
-   -mysql client installation:
+  - mysql client installation:
       ```pip install mysqlclient```
       
 **Project set up:**
-  -navigate to the project folder and run following command:
+  - navigate to the project folder and run following command:
           ```python manage.py runserver```
           
-  -migrating the models:
+  - migrating the models:
     ```python manage.py migrate
-        
        python manage.py makemigrations
-        
        python manage.py migrate```
         
    
