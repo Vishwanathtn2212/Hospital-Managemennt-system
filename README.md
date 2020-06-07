@@ -23,7 +23,7 @@ DATABASES = {
       
 **Project set up:**
   - navigate to the project folder and run following command:
-          ```python manage.py runserver```
+      ```python manage.py runserver```
           
   - migrating the models:
     ```python manage.py migrate
