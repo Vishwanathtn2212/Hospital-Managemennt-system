@@ -18,16 +18,22 @@ This project is done by using Django python framework.
 **Requirements:**
 
   - crispyforms installation:
-      ```pip install django-crispy-forms```
+      ```
+        pip install django-crispy-forms
+      ```
    
   - mysql client installation:
-      ```pip install mysqlclient```
+      ```
+        pip install mysqlclient
+      ```
       
 **Project set up:**
 
   - navigate to the project folder and run following command:
   
-    ```python manage.py runserver```
+    ```
+        python manage.py runserver
+    ```
           
   - migrating the models:
   
