@@ -2,7 +2,6 @@
 This project is done by using Django python framework.
 
 ## Connection to MysQL database 
-
 ```DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -14,7 +13,7 @@ This project is done by using Django python framework.
     }
 }```
 
-## Requirements:
+Requirements:
 
   -crispyforms installation:
       ```pip install django-crispy-forms```
