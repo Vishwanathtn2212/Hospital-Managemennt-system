@@ -1,8 +1,8 @@
 # Hospital-Managemennt-system
 This project is done by using Django python framework
 
-#Connection to MysQL database
-DATABASES = {
+##Connection to MysQL database
+```DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'hospitalinfy',
@@ -11,7 +11,7 @@ DATABASES = {
         'HOST':'localhost',
         'PORT':'3308',
     }
-}
+}```
 
 #Requirements:
 
