@@ -31,7 +31,8 @@ This project is done by using Django python framework.
           
   - migrating the models:
   
-    ```python manage.py migrate
+    ```
+       python manage.py migrate
     
        python manage.py makemigrations
        
