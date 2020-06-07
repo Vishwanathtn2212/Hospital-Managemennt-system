@@ -13,7 +13,7 @@ This project is done by using Django python framework.
     }
 }```
 
-Requirements:
+** Requirements: **
 
   -crispyforms installation:
       ```pip install django-crispy-forms```
@@ -21,7 +21,7 @@ Requirements:
    -mysql client installation:
       ```pip install mysqlclient```
       
-##Project set up:
+**Project set up:**
   -navigate to the project folder and run following command:
           ```python manage.py runserver```
           
