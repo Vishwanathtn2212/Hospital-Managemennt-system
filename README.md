@@ -1,7 +1,8 @@
-# Hospital-Managemennt-system
-This project is done by using Django python framework
+# Hospital-Management-system
+This project is done by using Django python framework.
 
-##Connection to MysQL database##
+## Connection to MysQL database 
+
 ```DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -13,7 +14,7 @@ This project is done by using Django python framework
     }
 }```
 
-##Requirements:
+## Requirements:
 
   -crispyforms installation:
       ```pip install django-crispy-forms```
